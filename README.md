@@ -1,4 +1,4 @@
-# willberries Учебный проект Glo Academy 
+# willberries - Учебный проект Glo Academy 
 Выполнил проект Леван Борян
 ## В проекте использовались языки:
 - HTML
